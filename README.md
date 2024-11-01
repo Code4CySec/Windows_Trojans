@@ -20,3 +20,8 @@ python3 -m http.server 8000
 
 Drop the shell_exec.py on the Windpws target machine and execut it
 If all goes well youl'll be presented with a reverse TCP shell back to your framework 
+
+- sandbox_detec.py
+
+You must do your bes to avoide tiping any defense in place. You can use this script to determine if the target machine is executing within a sandbox environment.
+
